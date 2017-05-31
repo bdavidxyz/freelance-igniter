@@ -1,46 +1,46 @@
-.c-hero {
-  background-color: #21293d;
-  color: #9596a0;
-  padding-top: $ultra-large-plus-value;
-  padding-bottom: $large-plus-value;
-  padding-left: $large-plus-value;
-  padding-right: $large-plus-value;
-}
+// .c-hero {
+//   background-color: #21293d;
+//   color: #9596a0;
+//   padding-top: $ultra-large-plus-value;
+//   padding-bottom: $large-plus-value;
+//   padding-left: $large-plus-value;
+//   padding-right: $large-plus-value;
+// }
 
-.c-hero-title {
-  @extend .txtcenter;
-  @extend .h1-like;
-  font-size: $large-plus-value;
-  font-weight: 300;
-}
+// .c-hero-title {
+//   @extend .txtcenter;
+//   @extend .h1-like;
+//   font-size: $large-plus-value;
+//   font-weight: 300;
+// }
 
-.c-hero-subtitle {
-  @extend .txtcenter;
-  @extend .h3-like;
-  font-weight: 300;
-}
+// .c-hero-subtitle {
+//   @extend .txtcenter;
+//   @extend .h3-like;
+//   font-weight: 300;
+// }
 
-.c-hero-button:hover {
-  background-color: rgb(220, 52, 87);
-  transition: background-color 450ms cubic-bezier(0.18, 0.71, 0.4, 0.82) 0ms, transform 50ms;
-}
+// .c-hero-button:hover {
+//   background-color: rgb(220, 52, 87);
+//   transition: background-color 450ms cubic-bezier(0.18, 0.71, 0.4, 0.82) 0ms, transform 50ms;
+// }
 
-.c-hero-button {
-  @extend .txtcenter;
-  background-color: rgb(238, 66, 102);
-  border: none;
-  border-radius: 100px;
-  color: rgb(255, 255, 255);
-  cursor: pointer;
-  flex-shrink: 0;
-  font-size: 15px;
-  font-style: normal;
-  padding: 14px 28px 12px;
-  text-align: center;
-  transition: background-color 450ms cubic-bezier(0.18, 0.71, 0.4, 0.82) 0ms, transform 50ms;
-  letter-spacing: 1px;
-  margin-top: 0px;
-  text-transform: uppercase;
-  text-decoration-line: none;
-  font-weight: 400;
-}
+// .c-hero-button {
+//   @extend .txtcenter;
+//   background-color: rgb(238, 66, 102);
+//   border: none;
+//   border-radius: 100px;
+//   color: rgb(255, 255, 255);
+//   cursor: pointer;
+//   flex-shrink: 0;
+//   font-size: 15px;
+//   font-style: normal;
+//   padding: 14px 28px 12px;
+//   text-align: center;
+//   transition: background-color 450ms cubic-bezier(0.18, 0.71, 0.4, 0.82) 0ms, transform 50ms;
+//   letter-spacing: 1px;
+//   margin-top: 0px;
+//   text-transform: uppercase;
+//   text-decoration-line: none;
+//   font-weight: 400;
+// }

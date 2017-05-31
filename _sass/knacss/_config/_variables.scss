@@ -21,8 +21,8 @@ $h5-size-l        : 1.8rem !default; // equiv "18px"
 $h6-size-l        : 1.6rem !default; // equiv "16px"
 
 // font stacks
-$font-stack-common    : 'Prompt', sans-serif !default; // common font
-$font-stack-headings  : 'Prompt', sans-serif !default; // headings font
+$font-stack-common    : 'Fira Sans', sans-serif !default; // common font
+$font-stack-headings  : 'Fira Sans', sans-serif !default; // headings font
 $font-stack-monospace : consolas, courier, monospace !default; // monospace font
 
 // color scheme
@@ -34,13 +34,30 @@ $color5    : #6FA939 !default;
 
 // colors used in project
 $color-base      : $color1;
-$color-link      : $color3;
 $background-base : $color2;
+$color-link      : $color3;
+
+// custom colors
+$color-red: #ac4142; // background of header
+$color-smoothred: #bc4142; // "Articles" under line
+$color-smoothorange: orange; // "Articles" under line, hovered
+$color-yellow: #FFF0B1; // background of highlighted sections
+$color-darkyellow: #746939; // text of highlighted sections
+$color-orange0: #fdcfb7; //  background of email caption
+$color-orange1: #fe8948; //  border of email caption
+$color-orange2: #e24a00; // CTA of email caption 
+$color-black: #313131; // color of  text  
+$color-grey: #5e5e5e; // color of text footer
+$color-white: #ffffff; // color of header title
+$color-halfwhite: #eed9d9; // color of header subtitle
+$color-of-links: #ac4142; // color of links
+
 
 // If you don't want any effect on focused/hovered links,
 // comment variable below or make it equal to either $color-link or false or null
-$color-link-hover: $color4;
-$brand-primary: $color5;
+// $color-link-hover: $color4;
+// $brand-primary: $color5;
+
 
 
 // spacings (choose unit you prefer)
