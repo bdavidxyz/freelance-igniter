@@ -38,7 +38,7 @@ $background-base : $color2;
 $color-link      : $color3;
 
 // custom colors
-$color-red: #ac4142; // background of header
+$color-redwine: #ac4142; // background of header
 $color-smoothred: #bc4142; // "Articles" under line
 $color-smoothorange: orange; // "Articles" under line, hovered
 $color-yellow: #FFF0B1; // background of highlighted sections
@@ -76,3 +76,20 @@ $ultra-large-plus-value : 20rem !default; // ultra large value for margins / pad
 
 //kna-namespace (default : null)
 $kna-namespace: null !default;
+
+// custom spacers
+$spacers: (
+  0: 0,
+  1: $tiny-value,      
+  2: $tiny-plus-value,  
+  3: $small-value,     
+  4: $small-plus-value,   
+  5: $medium-value,     
+  6: $medium-plus-value, 
+  7: $large-value,     
+  8: $large-plus-value,
+  9: $extra-large-value,     
+  10: $extra-large-plus-value, 
+  11: $ultra-large-value,      
+  12: $ultra-large-plus-value, 
+);

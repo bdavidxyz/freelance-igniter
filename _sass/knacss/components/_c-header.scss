@@ -1,0 +1,27 @@
+.c-header {
+  background-color: $color-redwine;
+  color: $color-white;
+  padding-top: space(6); 
+  padding-bottom: space(6); 
+}
+
+.c-herotitle {
+  margin: 0; 
+  line-height: $h1-size; 
+}
+
+.c-heropunchline {
+  font-size: $h3-size;
+  margin: 0;
+  margin-top: space(3);
+  color: $color-halfwhite;  
+}
+
+.c-heroauthor {
+  font-size: $h5-size;
+  margin-top: space(2);
+  color: $color-halfwhite;
+  a {
+    color: #f2e0d5
+  }
+}
