@@ -25,7 +25,7 @@
   display: flex;
   align-items: center;
   @include respond-to("tiny-up") {
-    margin-left: space(6);
+    margin-left: space(1);
   }
 }
 
@@ -44,7 +44,7 @@
 
 .c-heroauthor {
   font-size: $h5-size;
-  margin-top: space(1);
+  margin-top: space(2);
   color: $color-halfwhite;
   a {
     color: #f2e0d5
