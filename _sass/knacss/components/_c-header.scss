@@ -11,23 +11,34 @@
 
 .c-header__right {
   margin-left: auto;
+  flex-shrink: 0;
 }
 .c-header__middle {
-  margin-left: space(6);
+  margin-left: space(4);
+  margin-right: space(4);
+  @include respond-to("tiny-up") {
+    margin-left: space(6);
+  }
 }
 .c-header__left {
-  margin-left: space(6);
+  margin-left: space(2);
+  display: flex;
+  align-items: center;
+  @include respond-to("tiny-up") {
+    margin-left: space(6);
+  }
 }
 
 .c-herotitle {
   margin: 0; 
   font-size: $h1-size;
+  line-height: 1;
 }
 
 .c-heropunchline {
   font-size: $h3-size;
   margin: 0;
-  margin-top: space(0);
+  margin-top: space(2);
   color: $color-halfwhite;  
 }
 
