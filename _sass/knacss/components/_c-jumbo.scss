@@ -16,8 +16,7 @@
 
 
 .c-jumbotext {
-  font-size: 1.9rem;
-  line-height: 1.8;
+  @extend .u-bigtext;
 }
 
 .c-jumbotext--first {

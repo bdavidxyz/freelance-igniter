@@ -6,6 +6,14 @@ permalink: /articles/
 <div class='c-articles'>
   <div class="c-wrapper">
     {% include newsletter.html %}
+    <h2 class="c-articles-title h1-like">
+      Les derniers articles
+    </h2>
+    <ul class="c-articles-list u-bigtext">
+     {% for post in site.posts %}
+      <li class="c-articles-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+     {% endfor %}
+    </ul>
   </div>
 </div>
 
