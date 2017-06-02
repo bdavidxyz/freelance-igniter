@@ -1022,9 +1022,10 @@ input[type="reset"].unstyled {
   font-size: 2.8rem;
   line-height: 1;
   letter-spacing: -0.02rem;
-  cursor: pointer; }
+  cursor: pointer;
+  color: white; }
 
-.c-heropunchline {
+.c-header .c-heropunchline {
   font-size: 2rem;
   margin: 0;
   margin-top: 0.7rem;
@@ -1787,6 +1788,9 @@ ul.is-unstyled, ul.unstyled {
     padding: 0 !important; } }
 .u-color-white {
   color: white; }
+
+.u-no-underline {
+  text-decoration: none; }
 
 .u-bigtext, .c-jumbotext {
   font-size: 1.9rem;
