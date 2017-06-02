@@ -6,11 +6,9 @@
 
 # Site settings
 title: Freelance Igniter
-email: your-email@domain.com
+email: bdavidxyz@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Se lancer en indépendant, ou se lancer comme freelance, c'est assez exigeant, particulièrement sur le volet commercial. J'aide les développeurs à devenir indépendant.
 twitter_username: bdavidxyz
 github_username:  bdavidxyz
 

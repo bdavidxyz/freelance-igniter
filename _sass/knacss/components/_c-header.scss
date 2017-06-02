@@ -35,9 +35,10 @@
   line-height: 1;
   letter-spacing: -0.02rem;
   cursor: pointer;
+  color: white;
 }
 
-.c-heropunchline {
+.c-header .c-heropunchline {
   font-size: $h3-size;
   margin: 0;
   margin-top: space(2);
