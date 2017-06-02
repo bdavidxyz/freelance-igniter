@@ -1,0 +1,32 @@
+.c-post-title {
+  font-size: 5.1rem;
+  line-height: 1.1;
+  margin-bottom: space(0);
+  @include respond-to("medium-up") {
+    font-size: 6.1rem;
+  }
+
+}
+
+.c-post-header {
+  margin-top: space(6);
+}
+
+.c-post-content {
+  p {
+    font-size: 1.9rem;
+    line-height: 1.8;
+  }
+  p:first-child {
+    margin-top: space(6);
+  }
+}
+.c-post-meta {
+  margin: space(4) 0 0 0;
+  padding: 0;
+  font-size: $h4-size;
+  display: block;
+  color: #797575;
+  font-weight: bold;
+  line-height: 1.8;
+}

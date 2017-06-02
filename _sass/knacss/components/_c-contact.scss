@@ -2,12 +2,12 @@
 }
 
 .c-contact__block {
-    margin: space(6) space(0);
-    display: flex;
-    flex-direction: column;
-    @include respond-to("tiny-up") {
-      flex-direction: row;
-    }
+  margin: space(6) space(0);
+  display: flex;
+  flex-direction: column;
+  @include respond-to("tiny-up") {
+    flex-direction: row;
+  }
 }
 
 .c-contact__forminput {
