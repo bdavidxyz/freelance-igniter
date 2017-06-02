@@ -1021,7 +1021,8 @@ input[type="reset"].unstyled {
   margin: 0;
   font-size: 2.8rem;
   line-height: 1;
-  letter-spacing: -0.02rem; }
+  letter-spacing: -0.02rem;
+  cursor: pointer; }
 
 .c-heropunchline {
   font-size: 2rem;
@@ -1101,6 +1102,32 @@ input[type="reset"].unstyled {
 
 .c-notice__paragraph {
   font-size: 1.7rem;
+  line-height: 1.8; }
+
+.c-post-title {
+  font-size: 5.1rem;
+  line-height: 1.1;
+  margin-bottom: 0; }
+  @media screen and (min-width: 992px) {
+    .c-post-title {
+      font-size: 6.1rem; } }
+
+.c-post-header {
+  margin-top: 3rem; }
+
+.c-post-content p {
+  font-size: 1.9rem;
+  line-height: 1.8; }
+.c-post-content p:first-child {
+  margin-top: 3rem; }
+
+.c-post-meta {
+  margin: 1.5rem 0 0 0;
+  padding: 0;
+  font-size: 1.8rem;
+  display: block;
+  color: #797575;
+  font-weight: bold;
   line-height: 1.8; }
 
 .c-footer {
