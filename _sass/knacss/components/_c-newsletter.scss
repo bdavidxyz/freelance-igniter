@@ -1,0 +1,35 @@
+.c-newsletter {
+  padding: space(8);
+  background-color: $color-orange0;
+  border: 7px dashed #fe8948;
+  font-size: $base-font-size;
+  margin-top: space(6);
+}
+
+.c-newsletter__bigtxt {
+  font-size: $base-font-size-l;
+}
+
+.mc-field-group {
+  input {
+    outline: none;
+    // font-size: space(4);
+    padding: space(4);
+    border: 1px solid #BBB;
+  }
+}
+.mc-field-group + .mc-field-group{
+    margin-left: space(2);
+}
+#mc_embed_signup_scroll {
+  display: flex;
+}
+
+#mc-embedded-subscribe {
+  background: #e24a00;
+  color: white;
+  border: none;
+  font-weight: bold;
+  margin-left: space(4);
+  padding: space(4);
+}
