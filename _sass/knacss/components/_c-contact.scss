@@ -1,0 +1,35 @@
+.c-contact {
+}
+
+.c-contact__block {
+    margin: space(6) space(0);
+    display: flex;
+    flex-direction: column;
+    @include respond-to("tiny-up") {
+      flex-direction: row;
+    }
+}
+
+.c-contact__forminput {
+  padding: space(4);
+  border: 1px solid #BBB;
+  margin-left: space(3);
+  margin-top: 0;
+}
+
+.c-contact__formlabel {
+  width: space(9);
+  margin-top: 0;
+  text-align: left;
+    @include respond-to("tiny-up") {
+      text-align: right;
+      flex-direction: row;
+    }
+}
+
+.c-contact__forminput--submit {
+  font-size: $h4-size;
+  background: #DDD;
+  font-weight: bold;
+  padding: space(6);
+}

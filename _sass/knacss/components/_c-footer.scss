@@ -1,0 +1,31 @@
+.c-footer {
+  margin-top: space(8);
+  font-weight: bold;
+  color: rgb(94, 94, 94);
+}
+
+.c-footer__top {
+  text-align: center;
+  font-size: $h5-size;
+}
+
+.c-footer__bottom {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: space(2);
+  margin-bottom: space(6);
+}
+
+.c-footer__link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.c-footer__separator {
+  margin: 0 space(1);
+}
+
+.c-footer__link {
+  font-size: $h6-size;
+}

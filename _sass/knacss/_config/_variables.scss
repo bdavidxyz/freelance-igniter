@@ -32,11 +32,6 @@ $color3    : #333 !default;
 $color4    : #000 !default;
 $color5    : #6FA939 !default;
 
-// colors used in project
-$color-base      : $color1;
-$background-base : $color2;
-$color-link      : $color3;
-
 // custom colors
 $color-redwine: #ac4142; // background of header
 $color-smoothred: #bc4142; // "Articles" under line
@@ -51,6 +46,13 @@ $color-grey: #5e5e5e; // color of text footer
 $color-white: #ffffff; // color of header title
 $color-halfwhite: #eed9d9; // color of header subtitle
 $color-of-links: #ac4142; // color of links
+
+
+// colors used in project
+$color-base      : $color-black;
+$background-base : $color2;
+$color-link      : $color-of-links;
+
 
 
 // If you don't want any effect on focused/hovered links,

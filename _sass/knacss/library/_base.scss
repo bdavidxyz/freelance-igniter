@@ -21,6 +21,7 @@ html {
 
 body {
   font-size: $base-font-size;
+  letter-spacing: -0.01em;
   @if variable_exists(base-font-size-l) and $base-font-size-l != $base-font-size {
     @include respond-to("tiny-up") {
       font-size: $base-font-size-l;
