@@ -4,10 +4,10 @@
     <title>Freelance Igniter</title>
     <description>Se lancer en indépendant, ou se lancer comme freelance, c'est assez exigeant, particulièrement sur le volet commercial. J'aide les développeurs à devenir indépendant.
 </description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2017 17:40:26 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2017 17:40:26 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Jul 2017 18:08:48 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2017 18:08:48 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;h4 id=&quot;quel-est-le-but-du-service-&quot;&gt;Quel est le but du service ?&lt;/h4&gt;
 
-&lt;p&gt;D’abord trouver ensemble LA mission qui correspond à ce que vous voulez faire. Ensuite vous apprendre trouver les missions suivantes par vous-même.&lt;/p&gt;
+&lt;p&gt;D’abord trouver ensemble, rapidement, LA mission qui correspond à ce que vous voulez faire. Ensuite vous apprendre à trouver les missions suivantes par vous-même.&lt;/p&gt;
 
 &lt;h4 id=&quot;je-peux-tout-aussi-bien-me-lancer-seul&quot;&gt;Je peux tout aussi bien me lancer seul.&lt;/h4&gt;
 
@@ -26,7 +26,7 @@
 
 &lt;h4 id=&quot;jai-plein-dautres-question-à-propos-du-service&quot;&gt;J’ai plein d’autres question à propos du service&lt;/h4&gt;
 
-&lt;p&gt;Une &lt;a href=&quot;//le-service/&quot;&gt;page entière&lt;/a&gt; est consacrée à ce sujet.&lt;/p&gt;
+&lt;p&gt;Une &lt;a href=&quot;/le-service/&quot;&gt;page entière&lt;/a&gt; est consacrée à ce sujet.&lt;/p&gt;
 
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;h2 id=&quot;ma-candidature&quot;&gt;Ma candidature&lt;/h2&gt;
@@ -63,8 +63,8 @@ Je travaille également en tant que freelance, je ne peux prendre que 2 stagiair
 &lt;p&gt;Oui et non. Ce n’est pas le but de la formation. Il existe des sociétés spécialisées dans chaque domaine (création d’entreprise, compatibilité…) auxquelles je fais confiance, car je les ai testées et approuvées. Je vous dirigerais vers elle le cas échéant.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Jul 2017 13:42:26 +0200</pubDate>
-        <link>//faq/</link>
-        <guid isPermaLink="true">//faq/</guid>
+        <link>/faq/</link>
+        <guid isPermaLink="true">/faq/</guid>
         
         
         <category>service</category>
@@ -125,8 +125,8 @@ Je travaille également en tant que freelance, je ne peux prendre que 2 stagiair
 
 </description>
         <pubDate>Tue, 04 Jul 2017 12:42:26 +0200</pubDate>
-        <link>//le-service/</link>
-        <guid isPermaLink="true">//le-service/</guid>
+        <link>/le-service/</link>
+        <guid isPermaLink="true">/le-service/</guid>
         
         
         <category>service</category>
@@ -144,8 +144,8 @@ Je travaille également en tant que freelance, je ne peux prendre que 2 stagiair
 &lt;p&gt;Techniquement, c’est du Jekyll pour la génération des pages HTML, Gulp pour le build et l’automatisation des tâches, &lt;em&gt;Github-Pages&lt;/em&gt; pour l’hébergement, un peu de jQuery pour la route; le design est assumément volé à &lt;a href=&quot;http://emberigniter.com&quot;&gt;EmberIgniter&lt;/a&gt;, avec l’accord de celui-ci.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Jul 2017 11:42:26 +0200</pubDate>
-        <link>//a-propos-du-blog/</link>
-        <guid isPermaLink="true">//a-propos-du-blog/</guid>
+        <link>/a-propos-du-blog/</link>
+        <guid isPermaLink="true">/a-propos-du-blog/</guid>
         
         
         <category>service</category>
@@ -170,8 +170,8 @@ Je travaille également en tant que freelance, je ne peux prendre que 2 stagiair
 
 </description>
         <pubDate>Thu, 26 May 2016 15:18:26 +0200</pubDate>
-        <link>//freelancing/2016/05/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">//freelancing/2016/05/26/welcome-to-jekyll.html</guid>
+        <link>/freelancing/2016/05/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/freelancing/2016/05/26/welcome-to-jekyll.html</guid>
         
         
         <category>freelancing</category>
