@@ -6,14 +6,44 @@ permalink: /articles/
 <div class='c-articles'>
   <div class="c-wrapper">
     {% include newsletter.html %}
+
     <h2 class="c-articles-title h1-like">
-      Les derniers articles
+      A propos du service
     </h2>
     <ul class="c-articles-list u-bigtext">
-     {% for post in site.posts %}
+     {% for post in site.categories.service %}
       <li class="c-articles-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
      {% endfor %}
     </ul>
+    
+    <h2 class="c-articles-title h1-like">
+      Sur le freelancing
+    </h2>
+    <ul class="c-articles-list u-bigtext">
+     {% for post in site.categories.freelancing | sort: 'date' %}
+      <li class="c-articles-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+     {% endfor %}
+    </ul>
+
+    <h2 class="c-articles-title h1-like">
+      Articles de société
+    </h2>
+    <ul class="c-articles-list u-bigtext">
+     {% for post in site.categories.freelancing %}
+      <li class="c-articles-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+     {% endfor %}
+    </ul>
+    
+    <h2 class="c-articles-title h1-like">
+      Articles techniques
+    </h2>
+    <ul class="c-articles-list u-bigtext">
+     {% for post in site.categories.freelancing %}
+      <li class="c-articles-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+     {% endfor %}
+    </ul>
+
+
   </div>
 </div>
 

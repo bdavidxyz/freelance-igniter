@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll! The most awesome site generator"
 date:   2016-05-26 15:18:26 +0200
-categories: jekyll update
+categories: freelancing
 author: David Boureau
 minread: 5
 ---

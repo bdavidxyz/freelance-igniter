@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "FAQ"
+date:   2017-07-04 13:42:26 +0200
+categories: service
+permalink: /faq/
+author: David Boureau
+---
+
+<div>&nbsp;</div>
+
+## Le service
+
+#### Quel est le but du service ?
+
+D'abord trouver ensemble LA mission qui correspond à ce que vous voulez faire. Ensuite vous apprendre trouver les missions suivantes par vous-même.
+
+#### Je peux tout aussi bien me lancer seul.
+
+Effectivement, vous pouvez très bien vous lancer seul, comme le font presque tous les autres indépendants. Certains apprennent de leurs erreurs, plus ou moins rapidement, et finissent par s’épanouir et gagner (très) correctement leur vie. D’autres échouent et reviennent au salariat. Mon but est de vous faire gagner quelques années d’expérience dès le début de votre activité.
+
+#### J'ai plein d'autres question à propos du service
+
+Une [page entière]({{'/le-service/' | prepend: site.baseurl | prepend: site.url }}) est consacrée à ce sujet.
+
+
+<div>&nbsp;</div>
+## Ma candidature
+
+
+#### Le service est-il réservé aux développeurs uniquement ?
+
+Pour le moment, oui. Etant développeur freelance, c’est sur ce segment que je suis le plus à même de 1) comprendre le marché 2) vous comprendre et vous aider.    
+
+#### Et si je suis développeur dans le langage Java, et PHP, et [insérer ici votre langage de dév préféré] ?
+C’est bon, le service vous est ouvert.
+
+#### Proposez-vous quelque chose pour les personnes déjà freelance ?
+Oui. Si vous sentez que vous n’arrivez pas à décoller, ou que vous ne trouver pas de mission qui vous intéresse, je peux également vous aider.
+
+#### Peut-on me refuser ma candidature service ?
+Oui, c’est possible. Si je sens que vous n’êtes pas “prêt” à devenir freelance, je préfère ne pas vous encourager dans cette voie.
+Je travaille également en tant que freelance, je ne peux prendre que 2 stagiaires en même temps, pas plus. Donc je peux vous mettre sur liste d’attente si il y a déjà du monde.
+
+#### Et mon CV ?
+On regardera ensemble lors de l'accompagnement, pas besoin d'avoir un CV à jour pour démarrer.
+
+<div>&nbsp;</div>
+## Le freelancing
+
+#### Est-ce que je trouverai des missions ailleurs qu’à Paris ?
+Oui. Vous trouverez là où vous chercherez. Vous pouvez viser des missions en télétravail, ou bien n’importe où en France, ou à l’étranger.
+
+#### Aurai-je le temps de quitter mon entreprise actuelle ?
+“Oui mais”.
+
+Les recrutements de freelance se font souvent au dernier moment. Donc à vous de voir ce qui vous semble le plus judicieux par rapport à votre situation d'emploi actuelle.
+
+#### Et tous les autres aspects administratifs ? Une aide spéciale est-elle apportée ?
+Oui et non. Ce n’est pas le but de la formation. Il existe des sociétés spécialisées dans chaque domaine (création d’entreprise, compatibilité...) auxquelles je fais confiance, car je les ai testées et approuvées. Je vous dirigerais vers elle le cas échéant.
