@@ -13,7 +13,7 @@ author: David Boureau
 
 #### Quel est le but du service ?
 
-D'abord trouver ensemble LA mission qui correspond à ce que vous voulez faire. Ensuite vous apprendre trouver les missions suivantes par vous-même.
+D'abord trouver ensemble, rapidement, LA mission qui correspond à ce que vous voulez faire. Ensuite vous apprendre à trouver les missions suivantes par vous-même.
 
 #### Je peux tout aussi bien me lancer seul.
 
